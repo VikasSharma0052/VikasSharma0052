@@ -1,4 +1,4 @@
-![logo](https://github.com/VikasSharma0052/VikasSharma0052/blob/main/GithubBanner.png)
+![logo](https://github.com/VikasSharma0052/VikasSharma0052/blob/main/NeonDataAnlystGithubBanner.png)
 <h1 align="center">Hi 👋, I'm Vikas Sharma</h1>
 <h3 align="center">Data Analyst | Turning Data into Actionable Insights</h3>
 
